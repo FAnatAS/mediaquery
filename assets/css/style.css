@@ -1,0 +1,7 @@
+/* @charstet 'utf-8'; */
+@import url('./reset.css');
+@import url('./section.css.css');
+
+:root{
+  font-size: 22px;
+}
